@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3775
+
+MediaWiki\\&#039s html editor is not vim.
+
+This script uses mediawiki\\&#039s api.php to pull a page into the editor when opening a new file, and post the entire page back when writing.  It requires curl in your path.
